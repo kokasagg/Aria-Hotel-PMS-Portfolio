@@ -1,0 +1,2 @@
+allowBuilds:
+  msnodesqlv8: set this to true or false
