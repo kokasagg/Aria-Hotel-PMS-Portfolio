@@ -114,6 +114,7 @@ Planned improvements:
 - CI/CD pipeline
 
 ---
+// More in docs(flow and API documentation)
 
 ## Author
 
